@@ -1,6 +1,5 @@
 ### Olá pessoal 👋
 - 💗 Me chamo Guilherme 
-- 📚 Tenho 17 anos 
 - 🎓 Estudando: Lógica de Programação
 - 🔭 Atualmente trabalho com:
 • .LUA
