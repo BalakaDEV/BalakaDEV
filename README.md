@@ -1,4 +1,4 @@
-### Olá pessoal 👋
+### Hello Word 👋
 - 💗 Me chamo Guilherme 
 - 🎓 Estudando: Lógica de Programação
 - 🌱 Gosto de ajuda a comunidade através do meu discord: Balakaッ#2206
