@@ -7,7 +7,7 @@
 - 🎥 [Meu canal de projetos](https://www.youtube.com/channel/UCHA_fmzeUZuE-iGbgI3VkRQ)
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
-<img width="25%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
+<img width="25%" align="right" alt="Github" src="https://media2.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
 
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
@@ -37,7 +37,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BalakaDEV&theme=react&show_icons=true" style"max-width: 100%;" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BalakaDEV&theme=react&layout=compact" style"max-width: 100%;" />
 </a>
-
 <br/>
 
 
