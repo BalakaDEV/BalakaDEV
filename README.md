@@ -1,11 +1,6 @@
 ### Olá pessoal 👋
 - 💗 Me chamo Guilherme 
 - 🎓 Estudando: Lógica de Programação
-- 🔭 Atualmente trabalho com:
-• .LUA
-• HTML E CSS
-• JAVASCRIPT
-• C#
 - 🌱 Gosto de ajuda a comunidade através do meu discord: Balakaッ#2206
 - 💬 Trabalho atualmente com o a plataforma do [FIVEM](https://fivem.net/) 
 - ⚡ Gosto muito de jogos também [Minha Steam](https://steamcommunity.com/profiles/76561198179810479/)
@@ -18,7 +13,6 @@
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Lua](https://img.shields.io/badge/-Lua-333333?style=flat&logo=lua)
   ![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=c-sharp&logoColor=4bc425)
 - 🛢 &nbsp;
