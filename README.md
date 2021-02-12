@@ -11,12 +11,4 @@
 - ⚡ Gosto muito de jogos também [Minha Steam](https://steamcommunity.com/profiles/76561198179810479/)
 - 🎥 [Meu canal de projetos](https://www.youtube.com/channel/UCHA_fmzeUZuE-iGbgI3VkRQ)
 
-🛠  Tech Stack
-Github
 
-💻   3DS Max SketchUp ZModeler3
-🌐   HTML5 CSS JavaScript React Lua C#
-🛢   MySQL
-⚙️   Git GitHub
-🔧   Visual Studio Code Visual Studio Community
-🖥   Photoshop Illustrator Premiere After Effects
