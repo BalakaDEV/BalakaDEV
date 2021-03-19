@@ -24,7 +24,6 @@
   ![Visual Studio Community](https://img.shields.io/badge/-Visual%20Studio%20Community-333333?style=flat&logo=visual-studio-code&logoColor=7d3bbc)
 - 🖥 &nbsp;
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
-  ![After Effects](https://img.shields.io/badge/-After%20Effects-333333?style=flat&logo=adobe-after-effects)
 
 <br/>
 
