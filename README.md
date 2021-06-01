@@ -2,7 +2,7 @@
 ### Hello Word 👋
 - 💗 Me chamo Guilherme 
 - 🤖 Discord: Balaka#9918
-- 💬 Trabalho atualmente com o a plataforma do [FIVEM](https://fivem.net/) 
+- 💬 Working In: [FIVEM](https://fivem.net/) 
 - ⚡ [Minha Steam](https://steamcommunity.com/profiles/76561198179810479/)
 - 🎥 [Meu canal de projetos](https://www.youtube.com/channel/UCHA_fmzeUZuE-iGbgI3VkRQ)
 
