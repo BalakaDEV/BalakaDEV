@@ -1,34 +1,58 @@
-## <img src="https://media.discordapp.net/attachments/799515684278632468/849132256241254420/Estamos_fechados..png" width="700px">
-### Hello Word 👋
-- 💗 Me chamo Guilherme 
-- 🤖 Discord: Balaka#9918
-- 💬 Working In: [FIVEM](https://fivem.net/) 
-- ⚡ [Minha Steam](https://steamcommunity.com/profiles/76561198179810479/)
-- 🎥 [Meu canal de projetos](https://www.youtube.com/channel/UCHA_fmzeUZuE-iGbgI3VkRQ)
+### Oie devs 👋
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
-<img width="25%" align="right" alt="Github" src="https://i.pinimg.com/originals/e5/93/ab/e593ab0589d5f1b389e4dfbcce2bce20.gif" />
+Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
 
-- 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Lua](https://img.shields.io/badge/-Lua-333333?style=flat&logo=lua)
-- ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-- 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-- 🖥 &nbsp;
-  ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
+## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
-<br/>
+<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
-<h3> ⚙️  GitHub Analytics </h3>
-  
-<a href="https://github.com/BalakaDEV">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BalakaDEV&theme=react&show_icons=true" style"max-width: 100%;" /> 
+```kotlin
+object **SEU NOME** {
+ val name = "SEU NOME COMPLETO"
+ val acknowledgements = "ÁREA DE CONHECIMENTO"
+ 
+ val primarySkillset = "ALGUMAS HABILIDADES"
+ val languages = listOf("Java", "Python", "JavaScript", "Kotlin", "React") 
+
+}
+```
+
+## **Linguagens e Ferramentas:**  
+
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+
+
+## **GitHub Estatísticas**
+
+<a href="https://github.com/Gurupreet">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanessaswerts&theme=dracula&hide_langs_below=1" />
 </a>
-<br/>
 
+<a href="https://github.com/Gurupreet">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=vanessaswerts&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
+</a>
+
+[website]: https://codedev.ga/
+[twitter]: https://twitter.com/SEUTWITTER
+[youtube]: https://www.youtube.com/user/SEUYOUTUBE/
+[instagram]: https://www.instagram.com/SEUINSTAGRAM/
+[linkedin]: https://www.linkedin.com/in/SEULINKEDIN/
+<br>
+
+#### Rede Sociais!
+
+🏡 [website][website] **|** 
+🐦 [twitter][twitter] **|** 
+📺 [youtube][youtube] **|** 
+📷 [instagram][instagram] **|** 
+👔 [linkedin][linkedin]
 
