@@ -44,5 +44,6 @@ object **Balaka** {
 #### Rede Sociais!
 
 📺 [youtube][Youtube] **|** 
-📷 [Instagram][instagram] **|** 
+📷 [Instagram][instagram] **|**
+💬 Discord: Balaka#9918 **|**  
 
