@@ -1,4 +1,4 @@
-### Hellow World 👋
+### Hello World 👋
 
 - Paixão Pela Programação e Ajudar Pessoas a aprenderem ❤️
 - Atualmente estudando Python
