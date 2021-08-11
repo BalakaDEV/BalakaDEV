@@ -38,8 +38,6 @@ object **Balaka** {
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=BalakaDEV&show_icons=true&theme=dracula&line_height=27" alt="**Balaka** github stats"/>
 </a>
 
-[youtube]: https://www.youtube.com/channel/UCHA_fmzeUZuE-iGbgI3VkRQ
-[instagram]: https://www.instagram.com/gui_alem/
 <br>
 
 
