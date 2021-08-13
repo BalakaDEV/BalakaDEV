@@ -45,6 +45,6 @@ object **Balaka** {
 
 💬 Discord: Balaka#9918 **|** 📧 Contato: gui.alem123@gmail.com
  
- - name: Metrics embed
-  uses: lowlighter/metrics@v3.12
+- name: Metrics embed
+uses: lowlighter/metrics@v3.12
 
