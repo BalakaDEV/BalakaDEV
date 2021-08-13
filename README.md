@@ -44,7 +44,4 @@ object **Balaka** {
  	<a href="https://www.twitch.tv/balakadev" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
 
 💬 Discord: Balaka#9918 **|** 📧 Contato: gui.alem123@gmail.com
- 
-- name: Metrics embed
-uses: lowlighter/metrics@v3.12
 
