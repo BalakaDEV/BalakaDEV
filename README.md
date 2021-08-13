@@ -45,4 +45,8 @@ object **Balaka** {
    <a href="https://discordapp.com/users/746670069903261696/" target="_blank"><img src="https://img.shields.io/badge/Discord-Balaka%231234-7289DA?logo=Discord&style=for-the-badge" target="_blank"></a>
 
 📧 Contato: gui.alem123@gmail.com
+ 
+## ✨ Visitors 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=BalakaDEV" alt="BalakaDEV" /> </p>
 
