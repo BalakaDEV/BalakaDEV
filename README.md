@@ -1,6 +1,4 @@
-### Hello World 👋
-
-<img width="45" alt="about" src="https://camo.githubusercontent.com/2c8b3670d933220ae3c023fa1d568682975cce3f10799d0d3ff5ecac394b4ee8/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f31326f75664342304d795a31476f2f67697068792e676966">
+### Hello World <img width="45" alt="about" src="https://camo.githubusercontent.com/2c8b3670d933220ae3c023fa1d568682975cce3f10799d0d3ff5ecac394b4ee8/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f31326f75664342304d795a31476f2f67697068792e676966">
 
 - Paixão Pela Programação e Ajudar Pessoas a aprenderem ❤️
 - Atualmente estudando Python
