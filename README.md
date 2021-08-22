@@ -7,7 +7,7 @@
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
-<img align="right" width="300" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" />
+<img align="right" width="300" src="https://raw.githubusercontent.com/BalakaDEV/BalakaDEV/master/pacman.svg?sanitize=true" />
 
 ```kotlin
 object **Balaka** {
