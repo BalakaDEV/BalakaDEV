@@ -19,7 +19,7 @@ object **Balaka** {
 }
 ```
 
-### Now Playing on Spotify <img src="https://github.com/iampavangandhi/iampavangandhi/blob/master/gifs/bars.gif" width="200px">
+### Now Playing on Spotify 🎵
 [![Spotify](https://novatorem.sachinchaturvedi93.vercel.app/api/spotify)](https://open.spotify.com/user/!Balaka)
 
 ## **🛠️ Languages and Tools:**  
