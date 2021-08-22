@@ -1,10 +1,10 @@
-### Hello World 
+### Hello World <img align="right" width="100" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" /> 
 
 - Passion for Programming and Helping People to Learn ❤️
 - Currently studying Python
 - 🇧🇷/🇺🇸
 
-## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
+## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> About Me
 
 <img align="right" width="300" src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" />
 
