@@ -1,10 +1,10 @@
-### Hello World <img align="right" width="100" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" /> 
+### **Hello World** <img width="30" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" /> 
 
 - Passion for Programming and Helping People to Learn ❤️
 - Currently studying Python
 - 🇧🇷/🇺🇸
 
-## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> About Me
+## **👤 About Me**
 
 <img align="right" width="300" src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" />
 
@@ -18,6 +18,9 @@ object **Balaka** {
 
 }
 ```
+
+### Now Playing on Spotify <img src="https://github.com/iampavangandhi/iampavangandhi/blob/master/gifs/bars.gif" width="200px">
+[![Spotify](https://novatorem.sachinchaturvedi93.vercel.app/api/spotify)](https://open.spotify.com/user/!Balaka)
 
 ## **🛠️ Languages and Tools:**  
 
@@ -38,7 +41,7 @@ object **Balaka** {
 
 <p>
 
-## 📧 Social
+## **📧 Social**
  
 <div> 
   <a href="https://www.youtube.com/channel/UCHA_fmzeUZuE-iGbgI3VkRQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
@@ -48,5 +51,5 @@ object **Balaka** {
  
 <p>
  
-- Thank You <p align="left"> <img src="https://komarev.com/ghpvc/?username=BalakaDEV" alt="BalakaDEV" /> </p>
+- **Thank You** <p align="left"> <img src="https://komarev.com/ghpvc/?username=BalakaDEV" alt="BalakaDEV" /> </p>
 
