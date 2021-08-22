@@ -1,5 +1,4 @@
 ### Hello World 
-<img width="45" alt="about" src="https://camo.githubusercontent.com/2c8b3670d933220ae3c023fa1d568682975cce3f10799d0d3ff5ecac394b4ee8/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f31326f75664342304d795a31476f2f67697068792e676966">
 
 - Paixão Pela Programação e Ajudar Pessoas a aprenderem ❤️
 - Atualmente estudando Python
@@ -47,7 +46,6 @@ object **Balaka** {
  	<a href="https://www.twitch.tv/balakadev" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
    <a href="https://discordapp.com/users/746670069903261696/" target="_blank"><img src="https://img.shields.io/badge/Discord-Balaka%239918-7289DA?logo=Discord&style=for-the-badge" target="_blank"></a>
  
-## ✨ Visitors 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=BalakaDEV" alt="BalakaDEV" /> </p>
+Thank You <p align="left"> <img src="https://komarev.com/ghpvc/?username=BalakaDEV" alt="BalakaDEV" /> </p>
 
