@@ -46,6 +46,7 @@ object **Balaka** {
  	<a href="https://www.twitch.tv/balakadev" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
    <a href="https://discordapp.com/users/746670069903261696/" target="_blank"><img src="https://img.shields.io/badge/Discord-Balaka%239918-7289DA?logo=Discord&style=for-the-badge" target="_blank"></a>
  
-
+<p>
+ 
 - Thank You <p align="left"> <img src="https://komarev.com/ghpvc/?username=BalakaDEV" alt="BalakaDEV" /> </p>
 
