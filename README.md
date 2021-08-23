@@ -14,7 +14,7 @@ object **Balaka** {
  val acknowledgements = "Tecnologia"
  
  val primarySkillset = "Habilidades"
- val languages = listOf(".Lua", "HTML", "JavaScript", "CSS", "Python") 
+ val languages = listOf("Lua", "HTML", "JavaScript", "CSS", "Python", "MySQL") 
 
 }
 ```
