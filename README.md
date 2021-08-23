@@ -32,11 +32,14 @@ object **Balaka** {
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 
 
-## **GitHub Statistics**
+## **GitHub Statistics 📈**
 
-<a href="https://github.com/BalakaDEV">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=BalakaDEV&show_icons=true&theme=dracula&line_height=27" alt="**Balaka** github stats"/>
-</a>
+![Balaka GitHub stats](https://github-readme-stats.vercel.app/api?username=BalakaDEV&show_icons=true&theme=merko)
+
+## **Last Project 💛**
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BalakaDEV&repo=QR-Code-Generator&theme=merko)](https://github.com/BalakaDEV/QR-Code-Generator)
+
+
 
 
 <p>
