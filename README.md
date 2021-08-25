@@ -39,7 +39,7 @@ object **Balaka** {
 ![Balaka GitHub stats](https://github-readme-stats.vercel.app/api?username=BalakaDEV&show_icons=true&theme=merko)
 
 ## **Last Project 💛**
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BalakaDEV&repo=Conversor-Mp4-To-Mp3&theme=merko)](https://github.com/BalakaDEV/Conversor-Mp4-To-Mp3)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BalakaDEV&repo=QR-Code-Generator&theme=merko)](https://github.com/BalakaDEV/QR-Code-Generator)
 
 
 
