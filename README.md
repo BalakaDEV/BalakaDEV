@@ -33,14 +33,9 @@ object **Balaka** {
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png"></code>
 
-## **Most Used Languages 📚**
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BalakaDEV&theme=merko)
 
 ## **Last Project 💛**
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BalakaDEV&repo=File-Converter-V1&theme=merko)](https://github.com/BalakaDEV/File-Converter-V1)
-
-
-
 
 <p>
 
@@ -51,6 +46,9 @@ object **Balaka** {
   <a href="https://www.instagram.com/gui_alem/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/balakadev" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
    <a href="https://discordapp.com/users/746670069903261696/" target="_blank"><img src="https://img.shields.io/badge/Discord-Balaka%239918-7289DA?logo=Discord&style=for-the-badge" target="_blank"></a>
+ 
+## 😂 Here is a random joke that'll make you laugh!
+![Jokes Card](https://readme-jokes.vercel.app/api)
  
 <p>
  
