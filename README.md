@@ -36,7 +36,6 @@ object **Balaka** {
 
 ## **GitHub Statistics 📈**
 
-![Balaka GitHub stats](https://github-readme-stats.vercel.app/api?username=BalakaDEV&show_icons=true&theme=merko)
 
 ## **Last Project 💛**
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BalakaDEV&repo=File-Converter-V1&theme=merko)](https://github.com/BalakaDEV/File-Converter-V1)
