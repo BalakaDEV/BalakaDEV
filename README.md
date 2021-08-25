@@ -1,5 +1,7 @@
 <h3 align="left">Hello Word <img align="center" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" height="33px" /></h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=BalakaDEV" alt="BalakaDEV" /> </p>
+
 - Passion for Programming and Helping People to Learn ❤️
 - Currently studying Python
 - 🇧🇷/🇺🇸
@@ -49,8 +51,4 @@ object **Balaka** {
  
 ## 😂 Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
- 
-<p>
- 
-- **Thank You** <p align="left"> <img src="https://komarev.com/ghpvc/?username=BalakaDEV" alt="BalakaDEV" /> </p>
-
+  
