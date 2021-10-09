@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=BalakaDEV" alt="BalakaDEV" /> </p>
 
-<img align="right" width="290" src="https://media3.giphy.com/media/RMwgs5kZqkRyhF24KK/giphy.gif" />
+<img align="right" width="275" src="https://media3.giphy.com/media/RMwgs5kZqkRyhF24KK/giphy.gif" />
 
 **I am Guilherme "Balaka" 👤**
 - 🔭 I'm currently working on personal projects for sale.
