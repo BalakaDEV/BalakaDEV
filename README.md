@@ -2,38 +2,28 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=BalakaDEV" alt="BalakaDEV" /> </p>
 
-- 🌱Passion for Programming and Helping People to Learn 
-- 🔭🇧🇷/🇺🇸
+<img align="right" width="290" src="https://media3.giphy.com/media/RMwgs5kZqkRyhF24KK/giphy.gif" />
 
-## **About Me 👤**
-
-<img align="right" width="170" src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" />
-
-```kotlin
-object **Balaka** {
- val name = "Guilherme"
- val acknowledgements = "Tecnologia"
- 
- val primarySkillset = "Habilidades"
- val languages = listOf("Lua", "HTML", "JavaScript", "CSS", "Python", "MySQL") 
-
-}
-```
+**I am Guilherme "Balaka" 👤**
+- 🔭 I'm currently working on personal projects for sale.
+- 🌱 I'm currently learning how to use Flask in Python and make a website
+- 👯 I am looking to collaborate with small and medium companies as a freelancer. 
+- 📫 Contact my Email: gui.alem123@gmail.com
+- 😄 Pronouns: He/Him 
 
 ## **Languages and Tools 🛠️** 
 
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png"></code>
+<img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png"></code>
+<img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
+<img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<img height="35" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/mysql.png"></code>
 
-## **Last Project ⚙️**
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BalakaDEV&repo=Simple-API&theme=tokyonight)](https://github.com/BalakaDEV/Simple-API)
+## **Stats 📈**
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=BalakaDEV&theme=tokyonight&show_icons=true)
 
 <p>
 
