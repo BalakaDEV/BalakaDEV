@@ -5,6 +5,7 @@
 <img align="right" width="275" src="https://media3.giphy.com/media/RMwgs5kZqkRyhF24KK/giphy.gif" />
 
 **I am Guilherme "Balaka" 👤**
+- 🌎 Brasil/United States
 - 🔭 I'm currently working on personal projects for sale.
 - 🌱 I'm currently learning how to use Flask in Python and make a website
 - 👯 I am looking to collaborate with small and medium companies as a freelancer. 
