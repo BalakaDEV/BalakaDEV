@@ -2,15 +2,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=BalakaDEV" alt="BalakaDEV" /> </p>
 
-<img align="right" width="275" src="https://media3.giphy.com/media/RMwgs5kZqkRyhF24KK/giphy.gif" />
+<img align="right" width="280" src="https://i.pinimg.com/originals/5f/26/47/5f264729a4b1c06cff163013ac6c026f.gif" />
 
 **I am Guilherme "Balaka" 👤** <p>
 - 🌎 Brasil / United States
+- 😄 Pronouns: He / Him 
 - 🔭 I'm currently working on personal projects for sale.
 - 🌱 I'm currently learning how to use Flask in Python and make a website
 - 👯 I am looking to collaborate with small and medium companies as a freelancer. 
 - 📫 Contact my Email: gui.alem123@gmail.com
-- 😄 Pronouns: He / Him 
 
 ## **Languages and Tools 🛠️** 
 
