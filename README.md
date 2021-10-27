@@ -5,7 +5,6 @@
 <img align="right" width="275" src="https://media3.giphy.com/media/RMwgs5kZqkRyhF24KK/giphy.gif" />
 
 **I am Guilherme "Balaka" 👤** <p>
-*Website:* https://balakadev.netlify.app/
 - 🌎 Brasil / United States
 - 🔭 I'm currently working on personal projects for sale.
 - 🌱 I'm currently learning how to use Flask in Python and make a website
