@@ -27,7 +27,7 @@
 ## **Stats 📈**
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=BalakaDEV&theme=tokyonight&show_icons=true)
 
- [![Netlify Status](https://api.netlify.com/api/v1/badges/c67340b1-0c1c-426b-b609-68b72ab9edb5/deploy-status)](https://app.netlify.com/sites/balakadev/deploys)
+ - [![Netlify Status](https://api.netlify.com/api/v1/badges/c67340b1-0c1c-426b-b609-68b72ab9edb5/deploy-status)](https://app.netlify.com/sites/balakadev/deploys)
 <p>
 
 ## 📫 **Reach me**
