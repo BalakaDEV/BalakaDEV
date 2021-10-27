@@ -6,12 +6,12 @@
 
 **I am Guilherme "Balaka" 👤** <p>
 *Website:* https://balakadev.netlify.app/
-- 🌎 Brasil/United States
+- 🌎 Brasil / United States
 - 🔭 I'm currently working on personal projects for sale.
 - 🌱 I'm currently learning how to use Flask in Python and make a website
 - 👯 I am looking to collaborate with small and medium companies as a freelancer. 
 - 📫 Contact my Email: gui.alem123@gmail.com
-- 😄 Pronouns: He/Him 
+- 😄 Pronouns: He / Him 
 
 ## **Languages and Tools 🛠️** 
 
