@@ -27,7 +27,7 @@
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=BalakaDEV&theme=tokyonight&show_icons=true)
 <p>
 
-## 📫 **Reach me**
+## **Reach me 📫**
  
 <div> 
   <a href="https://www.youtube.com/channel/UCHA_fmzeUZuE-iGbgI3VkRQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
