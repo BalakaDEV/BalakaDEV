@@ -5,6 +5,7 @@
 <img align="right" width="280" src="https://i.pinimg.com/originals/5f/26/47/5f264729a4b1c06cff163013ac6c026f.gif" />
 
 **I am Guilherme "Balaka" 👤** <p>
+ NEW DISCORD: Balaka#5855
 - 🌎 Brasil / United States
 - 😄 Pronouns: He / Him 
 - 🔭 I'm currently working on personal projects for sale.
