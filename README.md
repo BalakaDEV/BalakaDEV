@@ -1,8 +1,12 @@
 ## Hello Word 👋
 
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=BalakaDEV&repo=New-Project-2023)](https://github.com/BalakaDEV/New-Project-2023)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=BalakaDEV" alt="BalakaDEV" /> </p>
 
 <!-- <img align="right" width="280" src="https://i.pinimg.com/originals/5f/26/47/5f264729a4b1c06cff163013ac6c026f.gif" /> -->
+
 
 **I am Guilherme "Balaka" 👤** <p>
  **NEW DISCORD: Balaka#5855**<p>
