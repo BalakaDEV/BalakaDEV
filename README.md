@@ -1,8 +1,5 @@
 ## Hello Word 👋
 
-**Novo Projeto** 🤖 <p>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=BalakaDEV&repo=New-Project-2023)](https://github.com/BalakaDEV/New-Project-2023)<p>
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=BalakaDEV" alt="BalakaDEV" /> </p>
 
@@ -17,6 +14,9 @@
 - 🌱 I'm currently learning how to use Flask in Python and make a website
 - 👯 I am looking to collaborate with small and medium companies as a freelancer. 
 - 📫 Contact my Email: gui.alem123@gmail.com
+  
+ **Novo Projeto** 🤖 <p>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=BalakaDEV&repo=New-Project-2023)](https://github.com/BalakaDEV/New-Project-2023)<p>
 
 ## **Languages and Tools 🛠️** 
 
