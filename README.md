@@ -7,7 +7,7 @@
 
 
 **I am Guilherme "Balaka" 👤** <p>
- **NEW DISCORD: Balaka#5855**<p>
+ **NEW DISCORD: Balaka#5855** ‼️<p>
 - 🌎 Brasil / United States
 - 😄 Pronouns: He / Him 
 - 🔭 I'm currently working on personal projects for sale.
