@@ -15,9 +15,6 @@
 - 👯 I am looking to collaborate with small and medium companies as a freelancer. 
 - 📫 Contact my Email: gui.alem123@gmail.com
   
- **Novo Projeto** 🤖 <p>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=BalakaDEV&repo=New-Project-2023)](https://github.com/BalakaDEV/New-Project-2023)<p>
-
 ## **Languages and Tools 🛠️** 
 
 <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png"></code>
