@@ -2,12 +2,10 @@
 ![github-header-image](https://user-images.githubusercontent.com/69608661/223020936-c95f7c06-2660-4e58-9cdf-10ee320192cf.png)
 
 
-- 🌎 Brazil
-- 🔭 I'm currently working on personal projects for sale.
-- 🌱 I'm currently learning how to use Flask in Python and make a website
-- 👯 I am looking to collaborate with small and medium companies as a freelancer. 
-- 📫 My Email: gui.alem123@gmail.com
-  
+Hey there 👋
+- 📍 Live in Brazil
+
+Sou o Guilherme, desenvolvedor Front-end e Back-end, programador criativo, especializado no Back-end. Minha missão é expandir cada vez mais meu conhecimento e aprendizado além de compartilhar projetos no github com a comunidade e fazer novos amigos. Também estou disposto a novos projetos 
 
 ## 📌 Pinned Repositories
 
@@ -65,14 +63,13 @@
 
 
 ## **📫 Reach me**
- 
+- Email: gui.alem123@gmail.com 
 <div> 
   <a href="https://www.youtube.com/channel/UCHA_fmzeUZuE-iGbgI3VkRQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/gui_alem/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
-  
+![](https://dcbadge.vercel.app/api/shield/746670069903261696)
  
- ![](https://dcbadge.vercel.app/api/shield/746670069903261696)
 
 
 
