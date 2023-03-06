@@ -1,7 +1,7 @@
-## Hello Word </>
+
+![github-header-image](https://user-images.githubusercontent.com/69608661/223020936-c95f7c06-2660-4e58-9cdf-10ee320192cf.png)
 
 
-**👤 I am Guilherme "Balaka"** <p>
 - 🌎 Brazil
 - 🔭 I'm currently working on personal projects for sale.
 - 🌱 I'm currently learning how to use Flask in Python and make a website
