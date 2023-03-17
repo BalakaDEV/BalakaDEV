@@ -63,9 +63,12 @@ Sou o Guilherme, desenvolvedor Front-end e Back-end, programador criativo, espec
 
 ## **📫 Reach me**
 - Email: gui.alem123@gmail.com 
+
+- Others:
 <div> 
   <a href="https://www.youtube.com/channel/UCHA_fmzeUZuE-iGbgI3VkRQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/gui.alem/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://twitter.com/BalakaDev" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 
 ![](https://dcbadge.vercel.app/api/shield/746670069903261696)
  
