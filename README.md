@@ -4,7 +4,7 @@
 
 Hey there 👋
 
-Sou o Guilherme, desenvolvedor Front-end e Back-end, programador criativo, especializado no Back-end. Minha missão é expandir cada vez mais meu conhecimento e aprendizado além de compartilhar projetos no github com a comunidade e fazer novos amigos. Também estou disposto a novos projetos. 
+Sou o Guilherme, desenvolvedor Front-end e Back-end, programador criativo, especializado no Back-end. Minha missão é expandir cada vez mais meu conhecimento e aprendizado além de compartilhar projetos no github com a comunidade e fazer novos amigos. Também estou disposto a novos projetos e cobrir vagas na sua empresa basta entrar em contato! 
 
 <!-- ## 📌 Pinned Repositories
 
