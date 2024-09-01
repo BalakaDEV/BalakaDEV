@@ -30,6 +30,7 @@ Sou o Guilherme, desenvolvedor Front-end e Back-end, programador criativo, espec
 ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![image](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![image](https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white)
+![image](https://img.shields.io/badge/C-2C2D72?style=for-the-badge&logo=c&logoColor=white)
   
 <details>  
 <summary>More Skills</summary>
