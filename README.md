@@ -1,4 +1,4 @@
-<h2 align="left">👋Olá, eu sou o Balaka, Programador Criativo e amante de tecnologia.</h2> <img align="right" height="197" src="https://user-images.githubusercontent.com/74038190/226127927-3feb953e-cc01-482e-b732-311b2907991f.gif"  />
+<h2 align="left">👋Olá, eu sou o Balaka, Programador Criativo e amante de tecnologia.</h2> 
 
 ###
 
