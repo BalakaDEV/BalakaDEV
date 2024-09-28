@@ -1,4 +1,4 @@
-<h2 align="left">👋Olá, eu sou o Balaka, Programador Criativo e amante de tecnologia.</h2>
+<h2 align="left">👋Olá, eu sou o Balaka, Programador Criativo e amante de tecnologia.</h2> <img align="right" height="197" src="https://user-images.githubusercontent.com/74038190/226127927-3feb953e-cc01-482e-b732-311b2907991f.gif"  />
 
 ###
 
@@ -25,10 +25,6 @@
   <img src="https://streak-stats.demolab.com?user=BalakaDEV&locale=en&mode=daily&theme=ayu-mirage&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=BalakaDEV&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=ayu-mirage&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
 </div>
-
-###
-
-<img align="right" height="197" src="https://user-images.githubusercontent.com/74038190/226127927-3feb953e-cc01-482e-b732-311b2907991f.gif"  />
 
 ###
 
