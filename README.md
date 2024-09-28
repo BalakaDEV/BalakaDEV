@@ -21,31 +21,28 @@
 ###
 
 <div align="left">
+  <img src="https://github-profile-trophy.vercel.app?username=BalakaDEV&theme=onedark&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://streak-stats.demolab.com?user=BalakaDEV&locale=en&mode=daily&theme=ayu-mirage&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=BalakaDEV&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=ayu-mirage&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BalakaDEV&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=ayu-mirage&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
-
-###
-
-<img align="left" height="177" src="https://user-images.githubusercontent.com/74038190/226127927-3feb953e-cc01-482e-b732-311b2907991f.gif"  />
 
 ###
 
 <div align="left">
   <a href="https://www.linkedin.com/in/guilherme-alem/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=c6a86f&logoColor=white&labelColor=c6a86f&style=for-the-badge" height="30" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=c6a86f&logoColor=white&labelColor=c6a86f&style=for-the-badge" height="31" alt="linkedin logo"  />
   </a>
   <a href="balakadev" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=c6a86f&logoColor=white&labelColor=c6a86f&style=for-the-badge" height="30" alt="discord logo"  />
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=c6a86f&logoColor=white&labelColor=c6a86f&style=for-the-badge" height="31" alt="discord logo"  />
   </a>
   <a href="https://youtube.com/@balakadev2219?si=JsGpyio_QBc9ZYKH" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=c6a86f&logoColor=white&labelColor=c6a86f&style=for-the-badge" height="30" alt="youtube logo"  />
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=c6a86f&logoColor=white&labelColor=c6a86f&style=for-the-badge" height="31" alt="youtube logo"  />
   </a>
   <a href="https://www.instagram.com/gui.alem/?utm_source=ig_web_button_share_sheet" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=c6a86f&logoColor=white&labelColor=c6a86f&style=for-the-badge" height="30" alt="instagram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=c6a86f&logoColor=white&labelColor=c6a86f&style=for-the-badge" height="31" alt="instagram logo"  />
   </a>
   <a href="mailto:gui.alem123@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=c6a86f&logoColor=white&labelColor=c6a86f&style=for-the-badge" height="30" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=c6a86f&logoColor=white&labelColor=c6a86f&style=for-the-badge" height="31" alt="gmail logo"  />
   </a>
 </div>
 
