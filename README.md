@@ -40,7 +40,7 @@
   <a href="https://www.instagram.com/gui.alem/?utm_source=ig_web_button_share_sheet" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=c6a86f&logoColor=white&labelColor=c6a86f&style=for-the-badge" height="27" alt="instagram logo"  />
   </a>
-  <a href="mailto:gui.alem123@gmail.com" target="_blank">
+  <a href="mailto:balaka.contato@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=c6a86f&logoColor=white&labelColor=c6a86f&style=for-the-badge" height="27" alt="gmail logo"  />
   </a>
 </div>
